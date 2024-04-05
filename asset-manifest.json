@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Real-vs-AI-Human-Face-Classifier/static/css/main.695d1d99.css",
-    "main.js": "/Real-vs-AI-Human-Face-Classifier/static/js/main.34f778d9.js",
+    "main.js": "/Real-vs-AI-Human-Face-Classifier/static/js/main.9afd75f5.js",
     "static/js/787.b9d0f38c.chunk.js": "/Real-vs-AI-Human-Face-Classifier/static/js/787.b9d0f38c.chunk.js",
     "static/media/blankimage.svg": "/Real-vs-AI-Human-Face-Classifier/static/media/blankimage.dd45e53bb5aaf3eb1426cffa5054ea45.svg",
     "index.html": "/Real-vs-AI-Human-Face-Classifier/index.html",
     "main.695d1d99.css.map": "/Real-vs-AI-Human-Face-Classifier/static/css/main.695d1d99.css.map",
-    "main.34f778d9.js.map": "/Real-vs-AI-Human-Face-Classifier/static/js/main.34f778d9.js.map",
+    "main.9afd75f5.js.map": "/Real-vs-AI-Human-Face-Classifier/static/js/main.9afd75f5.js.map",
     "787.b9d0f38c.chunk.js.map": "/Real-vs-AI-Human-Face-Classifier/static/js/787.b9d0f38c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.695d1d99.css",
-    "static/js/main.34f778d9.js"
+    "static/js/main.9afd75f5.js"
   ]
 }
